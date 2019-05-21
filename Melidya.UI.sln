@@ -5,6 +5,12 @@ VisualStudioVersion = 15.0.28307.572
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Melidya", "Melidya\Melidya.csproj", "{F1051169-1245-4306-B503-6EBEE63428AF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Melidya.BusinessLayer", "Melidya.BusinessLayer\Melidya.BusinessLayer.csproj", "{CC556842-0139-4626-9F29-AF50410C5BE7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Melidya.DataAccessLayer", "Melidya.DataAccessLayer\Melidya.DataAccessLayer.csproj", "{EFCBAF6C-A11C-45A6-913C-F0013D643873}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Melidya.Entity", "Melidya.Entity\Melidya.Entity.csproj", "{5B271973-B256-4CAC-96D1-1DECF8F71608}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +21,18 @@ Global
 		{F1051169-1245-4306-B503-6EBEE63428AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F1051169-1245-4306-B503-6EBEE63428AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F1051169-1245-4306-B503-6EBEE63428AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC556842-0139-4626-9F29-AF50410C5BE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC556842-0139-4626-9F29-AF50410C5BE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC556842-0139-4626-9F29-AF50410C5BE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC556842-0139-4626-9F29-AF50410C5BE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFCBAF6C-A11C-45A6-913C-F0013D643873}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFCBAF6C-A11C-45A6-913C-F0013D643873}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFCBAF6C-A11C-45A6-913C-F0013D643873}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFCBAF6C-A11C-45A6-913C-F0013D643873}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B271973-B256-4CAC-96D1-1DECF8F71608}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B271973-B256-4CAC-96D1-1DECF8F71608}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B271973-B256-4CAC-96D1-1DECF8F71608}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B271973-B256-4CAC-96D1-1DECF8F71608}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
